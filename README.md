@@ -18,9 +18,9 @@ Here,We have defined Student Service as interface since it may have different im
 
 Project Lombok used for common tasks.
 
-Specilly we have defined student age and grade as short types due to it's maximum value less than 128
+Specially we have defined student age and grade as short types due to it's maximum value less than 128
 
-Below Dependency usded for managment tasks
+Below Dependency used for managment tasks
 
 <dependency>
             <groupId>org.springframework.boot</groupId>
